@@ -30,5 +30,11 @@
     <img align="center" height="43" width="55" alt="c#-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="46" width="55" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
+
+<div  align="center"> 
+  <h1 align="center"> Social Network </h1>
+   <img align="center" height="40" width="55" alt="linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</div>
+          
    
 
