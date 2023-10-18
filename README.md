@@ -8,7 +8,7 @@
 <div align="center">
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=lucas-0liveira&theme=radical&mode=monthly&theme=midnight-purple" />
 </div>
-
+ 
 <br>
 <br>
 
