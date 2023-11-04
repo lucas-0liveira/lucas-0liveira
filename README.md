@@ -35,4 +35,4 @@
    <img align="center" height="40" width="60" alt="linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
    <img align="center" height="40" width="50" alt="gmail-icon" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg">
 </div>   
- 
+  
