@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=lucas-0liveira&theme=radical&mode=monthly&theme=midnight-purple" />
+  <img width="65%" src="https://camo.githubusercontent.com/b176e1b8ad3cd03fa6ced0716e6fa35fc4f2db56a707fb02bd2cfddb29f4ad34/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6c756361732d306c697665697261267468656d653d7261646963616c266d6f64653d6d6f6e74686c79267468656d653d6d69646e696768742d707572706c65"/>
 </div>
  
 <br>
