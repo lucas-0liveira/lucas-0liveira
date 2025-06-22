@@ -19,8 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: lucas-0liveira
-          START_YEAR: 2023
-          END_YEAR: 2023
 
       - name: Commit & Push
         run: |
