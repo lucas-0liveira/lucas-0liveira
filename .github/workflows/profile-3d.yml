@@ -26,8 +26,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions[bot]@users.noreply.github.com
-          git add -A
           git pull --rebase origin main
+          git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Update 3D contribution profile for lucas-0liveira"
             git push origin main
