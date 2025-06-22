@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Roda todos os dias às 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch: # Permite execução manual
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,11 +16,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: lucas-0liveira
-          START_YEAR: 2023
-          END_YEAR: 2023
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: lucas-0liveira
+          start-year: 2023
+          end-year: 2023
 
       - name: Commit & Push
         run: |
