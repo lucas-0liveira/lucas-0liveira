@@ -19,7 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: lucas-0liveira
-          SETTING_JSON: .github/green-dual.json
 
       - name: Commit & Push
         run: |
